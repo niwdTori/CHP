@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\CHPPPPPP\CHP001\bin\Debug\net6.0\CHP001.exe
+C:\Users\MSI\Desktop\CHPPPPPP\CHP001\bin\Debug\net6.0\CHP001.deps.json
+C:\Users\MSI\Desktop\CHPPPPPP\CHP001\bin\Debug\net6.0\CHP001.runtimeconfig.json
+C:\Users\MSI\Desktop\CHPPPPPP\CHP001\bin\Debug\net6.0\CHP001.dll
+C:\Users\MSI\Desktop\CHPPPPPP\CHP001\bin\Debug\net6.0\CHP001.pdb
+C:\Users\MSI\Desktop\CHPPPPPP\CHP001\obj\Debug\net6.0\CHP001.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\CHPPPPPP\CHP001\obj\Debug\net6.0\CHP001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\CHPPPPPP\CHP001\obj\Debug\net6.0\CHP001.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\CHPPPPPP\CHP001\obj\Debug\net6.0\CHP001.AssemblyInfo.cs
+C:\Users\MSI\Desktop\CHPPPPPP\CHP001\obj\Debug\net6.0\CHP001.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\CHPPPPPP\CHP001\obj\Debug\net6.0\CHP001.dll
+C:\Users\MSI\Desktop\CHPPPPPP\CHP001\obj\Debug\net6.0\refint\CHP001.dll
+C:\Users\MSI\Desktop\CHPPPPPP\CHP001\obj\Debug\net6.0\CHP001.pdb
+C:\Users\MSI\Desktop\CHPPPPPP\CHP001\obj\Debug\net6.0\CHP001.genruntimeconfig.cache
+C:\Users\MSI\Desktop\CHPPPPPP\CHP001\obj\Debug\net6.0\ref\CHP001.dll
